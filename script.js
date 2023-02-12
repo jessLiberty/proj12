@@ -1,0 +1,5 @@
+function SayHi()
+{
+	
+alert()
+}
